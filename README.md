@@ -1,6 +1,6 @@
 # Wookjin Choi (taznux)
 
-Medical image analysis and AI for radiation oncology.
+Associate Professor of Radiation Oncology at Sidney Kimmel Medical College, Thomas Jefferson University.
 
 ## Current focus
 - Radiomics and clinically interpretable AI
@@ -17,4 +17,4 @@ Some older services/pages are deprecated. Please use the active links above.
 
 ## Contact
 - GitHub: https://github.com/taznux
-- Lab: https://www.qradiomics.com/profile/
+- Profile: https://www.qradiomics.com/profile/

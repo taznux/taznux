@@ -1,17 +1,20 @@
-[![Wookjin's github stats](https://github-readme-stats.vercel.app/api?username=taznux)](https://github.com/taznux/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taznux&layout=compact)](https://github.com/taznux/)
+# Wookjin Choi (taznux)
 
-<!--
-**taznux/taznux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medical image analysis and AI for radiation oncology.
 
-Here are some ideas to get you started:
+## Current focus
+- Radiomics and clinically interpretable AI
+- Cancer imaging, segmentation, and treatment-response modeling
+- Open-source tools for reproducible research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active projects
+- **qradiomics.com**: https://www.qradiomics.com/
+- **qradiomics (website source)**: https://github.com/choilab-jefferson/qradiomics
+- **CIR**: https://github.com/choilab-jefferson/CIR
+
+## Legacy notice
+Some older services/pages are deprecated. Please use the active links above.
+
+## Contact
+- GitHub: https://github.com/taznux
+- Lab: https://www.qradiomics.com/profile/

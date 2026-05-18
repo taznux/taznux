@@ -9,7 +9,7 @@ Associate Professor of Radiation Oncology at Sidney Kimmel Medical College, Thom
 
 ## Active projects
 - **qradiomics.com**: https://www.qradiomics.com/
-- **qradiomics (website source)**: https://github.com/choilab-jefferson/qradiomics
+- **qradiomics CLI**: https://github.com/choilab-jefferson/qradiomics
 - **CIR**: https://github.com/choilab-jefferson/CIR
 
 ## Legacy notice
